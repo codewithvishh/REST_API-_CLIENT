@@ -11,5 +11,5 @@ DESCRIPTION: A JAVA PROGRAM THAT CONSUMES A PUBLIC REST API (E.G., FETCHING WEAT
              UPDATES. 
              I TAKE HELP FROM OpenWheatherMap WHERE I CREATE API KEY THEN I USED  
              THIS KEY IN MY APPLICATIONS TO FETCH PARTICULAR WHEATHER UPDATES.  
-OUTPUT:  
+OUTPUT:  ![Image](https://github.com/user-attachments/assets/626c7738-848e-47ef-800d-c02a65aba6ff)
              
